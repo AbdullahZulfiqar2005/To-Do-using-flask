@@ -11,5 +11,5 @@ site.db
 instance/
 
 # Virtual environment
-venv/
+myenv/
 .env/
